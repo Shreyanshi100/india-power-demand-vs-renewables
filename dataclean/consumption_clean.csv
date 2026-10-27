@@ -1,0 +1,421 @@
+state,region,fiscal_year,consumption_gwh
+Chandigarh,Northern,2012-13,1365.0
+Chandigarh,Northern,2013-14,1419.0
+Chandigarh,Northern,2014-15,1472.0
+Chandigarh,Northern,2015-16,1497.0
+Chandigarh,Northern,2016-17,1589.0
+Chandigarh,Northern,2017-18,1574.0
+Chandigarh,Northern,2018-19,1535.0
+Chandigarh,Northern,2019-20,1604.0
+Chandigarh,Northern,2020-21,1349.0
+Chandigarh,Northern,2021-22,1409.0
+Chandigarh,Northern,2022-23,1646.0
+Chandigarh,Northern,2023-24,1589.0
+Delhi,Northern,2012-13,23144.0
+Delhi,Northern,2013-14,23981.0
+Delhi,Northern,2014-15,24775.0
+Delhi,Northern,2015-16,25658.0
+Delhi,Northern,2016-17,26604.0
+Delhi,Northern,2017-18,28488.0
+Delhi,Northern,2018-19,29169.0
+Delhi,Northern,2019-20,29812.0
+Delhi,Northern,2020-21,26319.0
+Delhi,Northern,2021-22,27625.0
+Delhi,Northern,2022-23,34107.0
+Delhi,Northern,2023-24,32300.0
+Haryana,Northern,2012-13,26258.0
+Haryana,Northern,2013-14,29083.0
+Haryana,Northern,2014-15,32197.0
+Haryana,Northern,2015-16,35092.0
+Haryana,Northern,2016-17,34501.0
+Haryana,Northern,2017-18,38215.0
+Haryana,Northern,2018-19,41017.0
+Haryana,Northern,2019-20,43382.0
+Haryana,Northern,2020-21,41944.0
+Haryana,Northern,2021-22,46231.0
+Haryana,Northern,2022-23,55241.0
+Haryana,Northern,2023-24,55734.0
+Himachal Pradesh,Northern,2012-13,7358.0
+Himachal Pradesh,Northern,2013-14,7649.0
+Himachal Pradesh,Northern,2014-15,7842.0
+Himachal Pradesh,Northern,2015-16,7958.0
+Himachal Pradesh,Northern,2016-17,7974.0
+Himachal Pradesh,Northern,2017-18,8405.0
+Himachal Pradesh,Northern,2018-19,9041.0
+Himachal Pradesh,Northern,2019-20,9124.0
+Himachal Pradesh,Northern,2020-21,8635.0
+Himachal Pradesh,Northern,2021-22,10198.0
+Himachal Pradesh,Northern,2022-23,10976.0
+Himachal Pradesh,Northern,2023-24,11354.0
+Jammu & Kashmir,Northern,2012-13,5163.0
+Jammu & Kashmir,Northern,2013-14,5754.0
+Jammu & Kashmir,Northern,2014-15,6372.0
+Jammu & Kashmir,Northern,2015-16,7144.0
+Jammu & Kashmir,Northern,2016-17,7902.0
+Jammu & Kashmir,Northern,2017-18,8395.0
+Jammu & Kashmir,Northern,2018-19,9633.0
+Jammu & Kashmir,Northern,2019-20,10623.0
+Jammu & Kashmir,Northern,2020-21,9984.0
+Jammu & Kashmir,Northern,2021-22,10231.0
+Jammu & Kashmir,Northern,2022-23,9769.0
+Jammu & Kashmir,Northern,2023-24,10610.0
+Punjab,Northern,2012-13,35825.0
+Punjab,Northern,2013-14,37557.0
+Punjab,Northern,2014-15,39384.0
+Punjab,Northern,2015-16,40843.0
+Punjab,Northern,2016-17,44050.0
+Punjab,Northern,2017-18,47027.0
+Punjab,Northern,2018-19,50120.0
+Punjab,Northern,2019-20,49168.0
+Punjab,Northern,2020-21,50286.0
+Punjab,Northern,2021-22,53489.0
+Punjab,Northern,2022-23,58532.0
+Punjab,Northern,2023-24,59712.0
+Rajasthan,Northern,2012-13,42160.0
+Rajasthan,Northern,2013-14,43151.0
+Rajasthan,Northern,2014-15,49920.0
+Rajasthan,Northern,2015-16,50359.0
+Rajasthan,Northern,2016-17,51027.0
+Rajasthan,Northern,2017-18,53618.0
+Rajasthan,Northern,2018-19,60151.0
+Rajasthan,Northern,2019-20,61942.0
+Rajasthan,Northern,2020-21,64888.0
+Rajasthan,Northern,2021-22,69831.0
+Rajasthan,Northern,2022-23,79615.0
+Rajasthan,Northern,2023-24,83789.0
+Uttar Pradesh,Northern,2012-13,55550.0
+Uttar Pradesh,Northern,2013-14,59177.0
+Uttar Pradesh,Northern,2014-15,64707.0
+Uttar Pradesh,Northern,2015-16,70967.0
+Uttar Pradesh,Northern,2016-17,81068.0
+Uttar Pradesh,Northern,2017-18,90395.0
+Uttar Pradesh,Northern,2018-19,91355.0
+Uttar Pradesh,Northern,2019-20,94932.0
+Uttar Pradesh,Northern,2020-21,93600.0
+Uttar Pradesh,Northern,2021-22,98730.0
+Uttar Pradesh,Northern,2022-23,115675.0
+Uttar Pradesh,Northern,2023-24,121122.0
+Uttarakhand,Northern,2012-13,8574.0
+Uttarakhand,Northern,2013-14,9597.0
+Uttarakhand,Northern,2014-15,9980.0
+Uttarakhand,Northern,2015-16,10298.0
+Uttarakhand,Northern,2016-17,11162.0
+Uttarakhand,Northern,2017-18,11210.0
+Uttarakhand,Northern,2018-19,11543.0
+Uttarakhand,Northern,2019-20,12021.0
+Uttarakhand,Northern,2020-21,11225.0
+Uttarakhand,Northern,2021-22,12519.0
+Uttarakhand,Northern,2022-23,13509.0
+Uttarakhand,Northern,2023-24,13875.0
+Chhattisgarh,Western,2012-13,14115.0
+Chhattisgarh,Western,2013-14,14791.0
+Chhattisgarh,Western,2014-15,17102.0
+Chhattisgarh,Western,2015-16,18887.0
+Chhattisgarh,Western,2016-17,19159.0
+Chhattisgarh,Western,2017-18,20363.0
+Chhattisgarh,Western,2018-19,22210.0
+Chhattisgarh,Western,2019-20,22793.0
+Chhattisgarh,Western,2020-21,23361.0
+Chhattisgarh,Western,2021-22,25161.0
+Chhattisgarh,Western,2022-23,30477.0
+Chhattisgarh,Western,2023-24,33496.0
+Gujarat,Western,2012-13,63427.0
+Gujarat,Western,2013-14,66878.0
+Gujarat,Western,2014-15,73890.0
+Gujarat,Western,2015-16,77028.0
+Gujarat,Western,2016-17,85556.0
+Gujarat,Western,2017-18,90719.0
+Gujarat,Western,2018-19,95970.0
+Gujarat,Western,2019-20,92245.0
+Gujarat,Western,2020-21,92276.0
+Gujarat,Western,2021-22,106469.0
+Gujarat,Western,2022-23,124101.0
+Gujarat,Western,2023-24,128816.0
+Madhya Pradesh,Western,2012-13,32936.0
+Madhya Pradesh,Western,2013-14,36770.0
+Madhya Pradesh,Western,2014-15,41757.0
+Madhya Pradesh,Western,2015-16,46384.0
+Madhya Pradesh,Western,2016-17,45681.0
+Madhya Pradesh,Western,2017-18,52523.0
+Madhya Pradesh,Western,2018-19,56972.0
+Madhya Pradesh,Western,2019-20,58628.0
+Madhya Pradesh,Western,2020-21,60954.0
+Madhya Pradesh,Western,2021-22,65502.0
+Madhya Pradesh,Western,2022-23,70422.0
+Madhya Pradesh,Western,2023-24,74568.0
+Maharashtra,Western,2012-13,100285.0
+Maharashtra,Western,2013-14,100842.0
+Maharashtra,Western,2014-15,108496.0
+Maharashtra,Western,2015-16,115356.0
+Maharashtra,Western,2016-17,121051.0
+Maharashtra,Western,2017-18,124921.0
+Maharashtra,Western,2018-19,132619.0
+Maharashtra,Western,2019-20,125645.0
+Maharashtra,Western,2020-21,126423.0
+Maharashtra,Western,2021-22,142088.0
+Maharashtra,Western,2022-23,155518.0
+Maharashtra,Western,2023-24,167347.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2012-13,6409.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2013-14,7009.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2014-15,6759.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2015-16,7240.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2016-17,7474.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2017-18,8049.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2018-19,8497.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2019-20,8784.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2020-21,7423.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2021-22,8862.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2022-23,9335.0
+Dadra & Nagar Haveli and Daman & Diu,Western,2023-24,10199.0
+Goa,Western,2012-13,2998.0
+Goa,Western,2013-14,3085.0
+Goa,Western,2014-15,3151.0
+Goa,Western,2015-16,3391.0
+Goa,Western,2016-17,3475.0
+Goa,Western,2017-18,3618.0
+Goa,Western,2018-19,3787.0
+Goa,Western,2019-20,4104.0
+Goa,Western,2020-21,3700.0
+Goa,Western,2021-22,4014.0
+Goa,Western,2022-23,4508.32
+Goa,Western,2023-24,4802.0
+Andhra Pradesh,Southern,2012-13,68439.0
+Andhra Pradesh,Southern,2013-14,72919.0
+Andhra Pradesh,Southern,2014-15,41914.0
+Andhra Pradesh,Southern,2015-16,44353.0
+Andhra Pradesh,Southern,2016-17,47761.0
+Andhra Pradesh,Southern,2017-18,51001.0
+Andhra Pradesh,Southern,2018-19,55407.0
+Andhra Pradesh,Southern,2019-20,57119.0
+Andhra Pradesh,Southern,2020-21,51756.0
+Andhra Pradesh,Southern,2021-22,63269.0
+Andhra Pradesh,Southern,2022-23,62913.0
+Andhra Pradesh,Southern,2023-24,68626.0
+Telangana,Southern,2012-13,
+Telangana,Southern,2013-14,
+Telangana,Southern,2014-15,39639.0
+Telangana,Southern,2015-16,41289.0
+Telangana,Southern,2016-17,44446.0
+Telangana,Southern,2017-18,51198.0
+Telangana,Southern,2018-19,58366.0
+Telangana,Southern,2019-20,59365.0
+Telangana,Southern,2020-21,57896.0
+Telangana,Southern,2021-22,62102.0
+Telangana,Southern,2022-23,67828.0
+Telangana,Southern,2023-24,75140.0
+Karnataka,Southern,2012-13,51439.0
+Karnataka,Southern,2013-14,53716.0
+Karnataka,Southern,2014-15,55166.0
+Karnataka,Southern,2015-16,57223.0
+Karnataka,Southern,2016-17,58152.0
+Karnataka,Southern,2017-18,59236.0
+Karnataka,Southern,2018-19,62405.0
+Karnataka,Southern,2019-20,61131.0
+Karnataka,Southern,2020-21,62783.0
+Karnataka,Southern,2021-22,61064.0
+Karnataka,Southern,2022-23,66357.0
+Karnataka,Southern,2023-24,78964.0
+Kerala,Southern,2012-13,16833.0
+Kerala,Southern,2013-14,18025.0
+Kerala,Southern,2014-15,18786.0
+Kerala,Southern,2015-16,19829.0
+Kerala,Southern,2016-17,20218.0
+Kerala,Southern,2017-18,21354.0
+Kerala,Southern,2018-19,21414.0
+Kerala,Southern,2019-20,23149.0
+Kerala,Southern,2020-21,22599.0
+Kerala,Southern,2021-22,23931.0
+Kerala,Southern,2022-23,24906.0
+Kerala,Southern,2023-24,27581.0
+Tamil Nadu,Southern,2012-13,62077.0
+Tamil Nadu,Southern,2013-14,71772.0
+Tamil Nadu,Southern,2014-15,77618.0
+Tamil Nadu,Southern,2015-16,80083.0
+Tamil Nadu,Southern,2016-17,83936.0
+Tamil Nadu,Southern,2017-18,86654.0
+Tamil Nadu,Southern,2018-19,91788.0
+Tamil Nadu,Southern,2019-20,95919.0
+Tamil Nadu,Southern,2020-21,94592.0
+Tamil Nadu,Southern,2021-22,101908.0
+Tamil Nadu,Southern,2022-23,103679.0
+Tamil Nadu,Southern,2023-24,111647.0
+Puducherry,Southern,2012-13,2492.0
+Puducherry,Southern,2013-14,2532.0
+Puducherry,Southern,2014-15,2441.0
+Puducherry,Southern,2015-16,2468.0
+Puducherry,Southern,2016-17,2556.0
+Puducherry,Southern,2017-18,2540.0
+Puducherry,Southern,2018-19,2654.0
+Puducherry,Southern,2019-20,2714.0
+Puducherry,Southern,2020-21,2603.0
+Puducherry,Southern,2021-22,2774.0
+Puducherry,Southern,2022-23,2908.0
+Puducherry,Southern,2023-24,3104.0
+Lakshadweep,Southern,2012-13,38.0
+Lakshadweep,Southern,2013-14,41.0
+Lakshadweep,Southern,2014-15,45.0
+Lakshadweep,Southern,2015-16,46.0
+Lakshadweep,Southern,2016-17,48.0
+Lakshadweep,Southern,2017-18,49.0
+Lakshadweep,Southern,2018-19,49.0
+Lakshadweep,Southern,2019-20,48.0
+Lakshadweep,Southern,2020-21,53.0
+Lakshadweep,Southern,2021-22,50.0
+Lakshadweep,Southern,2022-23,52.0
+Lakshadweep,Southern,2023-24,54.0
+Bihar,Eastern,2012-13,6721.0
+Bihar,Eastern,2013-14,7980.0
+Bihar,Eastern,2014-15,9807.0
+Bihar,Eastern,2015-16,13250.0
+Bihar,Eastern,2016-17,17251.0
+Bihar,Eastern,2017-18,18713.0
+Bihar,Eastern,2018-19,20856.0
+Bihar,Eastern,2019-20,22709.0
+Bihar,Eastern,2020-21,24108.0
+Bihar,Eastern,2021-22,26064.0
+Bihar,Eastern,2022-23,30338.0
+Bihar,Eastern,2023-24,39278.0
+Jharkhand,Eastern,2012-13,17124.0
+Jharkhand,Eastern,2013-14,18175.0
+Jharkhand,Eastern,2014-15,16533.0
+Jharkhand,Eastern,2015-16,17542.0
+Jharkhand,Eastern,2016-17,19549.0
+Jharkhand,Eastern,2017-18,19950.0
+Jharkhand,Eastern,2018-19,21184.0
+Jharkhand,Eastern,2019-20,21997.0
+Jharkhand,Eastern,2020-21,21375.0
+Jharkhand,Eastern,2021-22,23139.0
+Jharkhand,Eastern,2022-23,26408.0
+Jharkhand,Eastern,2023-24,26333.0
+Odisha,Eastern,2012-13,13552.0
+Odisha,Eastern,2013-14,14411.0
+Odisha,Eastern,2014-15,15440.0
+Odisha,Eastern,2015-16,16053.0
+Odisha,Eastern,2016-17,16988.0
+Odisha,Eastern,2017-18,17714.0
+Odisha,Eastern,2018-19,19373.0
+Odisha,Eastern,2019-20,20716.0
+Odisha,Eastern,2020-21,20610.0
+Odisha,Eastern,2021-22,29541.0
+Odisha,Eastern,2022-23,30449.0
+Odisha,Eastern,2023-24,28956.0
+West Bengal,Eastern,2012-13,36320.0
+West Bengal,Eastern,2013-14,36592.0
+West Bengal,Eastern,2014-15,39059.0
+West Bengal,Eastern,2015-16,42497.0
+West Bengal,Eastern,2016-17,43946.0
+West Bengal,Eastern,2017-18,45478.0
+West Bengal,Eastern,2018-19,48290.0
+West Bengal,Eastern,2019-20,50482.0
+West Bengal,Eastern,2020-21,48394.0
+West Bengal,Eastern,2021-22,50881.0
+West Bengal,Eastern,2022-23,58579.0
+West Bengal,Eastern,2023-24,64410.0
+Sikkim,Eastern,2012-13,385.0
+Sikkim,Eastern,2013-14,405.0
+Sikkim,Eastern,2014-15,405.0
+Sikkim,Eastern,2015-16,354.0
+Sikkim,Eastern,2016-17,437.0
+Sikkim,Eastern,2017-18,344.0
+Sikkim,Eastern,2018-19,381.0
+Sikkim,Eastern,2019-20,411.0
+Sikkim,Eastern,2020-21,415.0
+Sikkim,Eastern,2021-22,441.0
+Sikkim,Eastern,2022-23,486.0
+Sikkim,Eastern,2023-24,482.0
+Andaman & Nicobar Islands,Eastern,2012-13,206.0
+Andaman & Nicobar Islands,Eastern,2013-14,216.0
+Andaman & Nicobar Islands,Eastern,2014-15,229.0
+Andaman & Nicobar Islands,Eastern,2015-16,242.0
+Andaman & Nicobar Islands,Eastern,2016-17,266.0
+Andaman & Nicobar Islands,Eastern,2017-18,266.0
+Andaman & Nicobar Islands,Eastern,2018-19,255.0
+Andaman & Nicobar Islands,Eastern,2019-20,269.0
+Andaman & Nicobar Islands,Eastern,2020-21,245.0
+Andaman & Nicobar Islands,Eastern,2021-22,267.0
+Andaman & Nicobar Islands,Eastern,2022-23,284.0
+Andaman & Nicobar Islands,Eastern,2023-24,300.0
+Arunachal Pradesh,North-Eastern,2012-13,471.0
+Arunachal Pradesh,North-Eastern,2013-14,481.0
+Arunachal Pradesh,North-Eastern,2014-15,543.0
+Arunachal Pradesh,North-Eastern,2015-16,375.0
+Arunachal Pradesh,North-Eastern,2016-17,371.0
+Arunachal Pradesh,North-Eastern,2017-18,437.0
+Arunachal Pradesh,North-Eastern,2018-19,447.0
+Arunachal Pradesh,North-Eastern,2019-20,419.0
+Arunachal Pradesh,North-Eastern,2020-21,405.0
+Arunachal Pradesh,North-Eastern,2021-22,518.0
+Arunachal Pradesh,North-Eastern,2022-23,582.0
+Arunachal Pradesh,North-Eastern,2023-24,674.0
+Assam,North-Eastern,2012-13,4205.0
+Assam,North-Eastern,2013-14,4763.0
+Assam,North-Eastern,2014-15,5484.0
+Assam,North-Eastern,2015-16,6199.0
+Assam,North-Eastern,2016-17,6525.0
+Assam,North-Eastern,2017-18,7064.0
+Assam,North-Eastern,2018-19,7268.0
+Assam,North-Eastern,2019-20,7109.0
+Assam,North-Eastern,2020-21,7356.0
+Assam,North-Eastern,2021-22,8521.0
+Assam,North-Eastern,2022-23,10004.0
+Assam,North-Eastern,2023-24,10126.0
+Manipur,North-Eastern,2012-13,379.0
+Manipur,North-Eastern,2013-14,398.0
+Manipur,North-Eastern,2014-15,465.0
+Manipur,North-Eastern,2015-16,475.0
+Manipur,North-Eastern,2016-17,512.0
+Manipur,North-Eastern,2017-18,564.0
+Manipur,North-Eastern,2018-19,613.0
+Manipur,North-Eastern,2019-20,631.0
+Manipur,North-Eastern,2020-21,651.0
+Manipur,North-Eastern,2021-22,732.0
+Manipur,North-Eastern,2022-23,845.0
+Manipur,North-Eastern,2023-24,850.0
+Meghalaya,North-Eastern,2012-13,1259.0
+Meghalaya,North-Eastern,2013-14,1322.0
+Meghalaya,North-Eastern,2014-15,1233.0
+Meghalaya,North-Eastern,2015-16,1283.0
+Meghalaya,North-Eastern,2016-17,972.0
+Meghalaya,North-Eastern,2017-18,1064.0
+Meghalaya,North-Eastern,2018-19,1105.0
+Meghalaya,North-Eastern,2019-20,1259.0
+Meghalaya,North-Eastern,2020-21,1326.0
+Meghalaya,North-Eastern,2021-22,1507.0
+Meghalaya,North-Eastern,2022-23,1719.0
+Meghalaya,North-Eastern,2023-24,1691.0
+Mizoram,North-Eastern,2012-13,287.0
+Mizoram,North-Eastern,2013-14,303.0
+Mizoram,North-Eastern,2014-15,327.0
+Mizoram,North-Eastern,2015-16,339.0
+Mizoram,North-Eastern,2016-17,354.0
+Mizoram,North-Eastern,2017-18,396.0
+Mizoram,North-Eastern,2018-19,408.0
+Mizoram,North-Eastern,2019-20,486.0
+Mizoram,North-Eastern,2020-21,454.0
+Mizoram,North-Eastern,2021-22,661.0
+Mizoram,North-Eastern,2022-23,494.0
+Mizoram,North-Eastern,2023-24,503.0
+Nagaland,North-Eastern,2012-13,328.0
+Nagaland,North-Eastern,2013-14,395.0
+Nagaland,North-Eastern,2014-15,529.0
+Nagaland,North-Eastern,2015-16,549.0
+Nagaland,North-Eastern,2016-17,635.0
+Nagaland,North-Eastern,2017-18,664.0
+Nagaland,North-Eastern,2018-19,679.0
+Nagaland,North-Eastern,2019-20,693.0
+Nagaland,North-Eastern,2020-21,683.0
+Nagaland,North-Eastern,2021-22,704.0
+Nagaland,North-Eastern,2022-23,687.0
+Nagaland,North-Eastern,2023-24,823.0
+Tripura,North-Eastern,2012-13,721.0
+Tripura,North-Eastern,2013-14,722.0
+Tripura,North-Eastern,2014-15,786.0
+Tripura,North-Eastern,2015-16,813.0
+Tripura,North-Eastern,2016-17,895.0
+Tripura,North-Eastern,2017-18,928.0
+Tripura,North-Eastern,2018-19,956.0
+Tripura,North-Eastern,2019-20,914.0
+Tripura,North-Eastern,2020-21,982.0
+Tripura,North-Eastern,2021-22,1051.0
+Tripura,North-Eastern,2022-23,1154.0
+Tripura,North-Eastern,2023-24,1239.0
